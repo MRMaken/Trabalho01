@@ -17,7 +17,7 @@ neste ponto a codificação não e necessária, somente as ideias de telas devem
 
 Sugestão: https://balsamiq.com/products/mockups/<br>
 
-![Alt text](https://github.com/discipbd1/trab01/blob/master/balsamiq.png?raw=true "Title")
+![Alt text](https://github.com/MRMaken/Trabalho01/blob/master/Academia.pdf?raw=true "Title")
 
 
 ###5	MODELO CONCEITUAL<br>
